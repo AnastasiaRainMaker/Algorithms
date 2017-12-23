@@ -11,7 +11,7 @@ public class Main {
         String nS = s.replace(" ", "%20");
 
         //more complex solution
-        
+
 //        char[] sChars = s.toCharArray();
 //        StringBuilder nS = new StringBuilder();
 //        char spaceCh = " ".charAt(0);
