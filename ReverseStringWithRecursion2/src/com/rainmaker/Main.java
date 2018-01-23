@@ -21,7 +21,7 @@ public class Main {
             reverse(sAr, i);
 
         } else
-        System.out.println( Arrays.toString(sAr));
+            System.out.println( Arrays.toString(sAr));
     }
 
 }
